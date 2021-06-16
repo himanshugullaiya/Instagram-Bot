@@ -22,6 +22,8 @@ requests
 1. First Try this on a Dummy Account not your real to understand how things work
 2. Enter Email and Password in the code
 3. Enter the username of the client of which you want to follow the Followers
+eg:
+client,names_requested,index_done = mybot.brute_followers(index_done, client_id= 'thebusiness.mindset')  
 
 
 #...Under Production...#
